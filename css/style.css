@@ -1,0 +1,30 @@
+/** Step one **/
+
+/** Step two **/
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Sofadi One', sans-serif;
+    font-weight: 900;
+}
+/** Step three **/
+h1 {
+    font-size: 46px;
+    letter-spacing: 1.2;
+    text-align: center;
+    color: blueviolet;
+}
+/** Step four **/
+p, a, ul, li {
+    
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 400;
+
+}
+/** Step five **/
+p span {
+    color:blueviolet;;
+}
+/** Step six **/
+h3 {
+    font-size: 25px;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, .7);
+}
